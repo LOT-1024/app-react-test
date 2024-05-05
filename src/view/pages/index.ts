@@ -1,0 +1,5 @@
+export {default as LoginPage} from "./authPage/LoginPage"
+export {default as RegisterPage} from "./authPage/RegisterPage"
+export {default as BooksPage} from "./books/BooksPage"
+export {default as HomeLogin} from "./home/HomeLogin"
+export {default as HomeMain} from "./home/HomeMain"
